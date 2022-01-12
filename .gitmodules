@@ -1,0 +1,3 @@
+[submodule "mxnet-ssd"]
+	path = mxnet-ssd
+	url = git@github.com:zhreshold/mxnet-ssd.git
